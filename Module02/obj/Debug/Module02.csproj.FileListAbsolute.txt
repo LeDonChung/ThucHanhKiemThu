@@ -1,0 +1,15 @@
+T:\ThucHanhKiemThu\Module02\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+T:\ThucHanhKiemThu\Module02\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+T:\ThucHanhKiemThu\Module02\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+T:\ThucHanhKiemThu\Module02\bin\Debug\Module02.dll
+T:\ThucHanhKiemThu\Module02\bin\Debug\Module02.pdb
+T:\ThucHanhKiemThu\Module02\bin\Debug\MethodLibrary.dll
+T:\ThucHanhKiemThu\Module02\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+T:\ThucHanhKiemThu\Module02\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+T:\ThucHanhKiemThu\Module02\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+T:\ThucHanhKiemThu\Module02\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+T:\ThucHanhKiemThu\Module02\obj\Debug\Module02.csprojAssemblyReference.cache
+T:\ThucHanhKiemThu\Module02\obj\Debug\Module02.csproj.CoreCompileInputs.cache
+T:\ThucHanhKiemThu\Module02\obj\Debug\Module02.csproj.CopyComplete
+T:\ThucHanhKiemThu\Module02\obj\Debug\Module02.dll
+T:\ThucHanhKiemThu\Module02\obj\Debug\Module02.pdb
